@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="first_btn_style"></style>
+
+    <style name="second_btn_style"></style>
+
+    <style name="third_btn_style"></style>
+</resources>
